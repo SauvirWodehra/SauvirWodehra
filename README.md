@@ -172,17 +172,7 @@ https://github.com/SauvirWodehra/Movie-Recommendation-System
 
 ---
 
-# 📈 GitHub Analytics
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SauvirWodehra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauvirWodehra&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -285,7 +275,7 @@ https://github.com/SauvirWodehra/Movie-Recommendation-System
 
 <div align="center">
 
-### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
+
 
 ⭐ If you like my work, consider starring my repositories!
 
