@@ -12,7 +12,7 @@
 Building scalable backend systems, AI-powered applications, and solving real-world engineering problems.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SauvirWodehra&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 
 </div>
 
